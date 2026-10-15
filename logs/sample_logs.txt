@@ -1,0 +1,12 @@
+Oct 15 09:12:01 server01 sshd[1842]: Failed password for invalid user admin from 203.0.113.45 port 51234 ssh2
+Oct 15 09:12:18 server01 sshd[1845]: Failed password for invalid user admin from 203.0.113.45 port 51241 ssh2
+Oct 15 09:12:36 server01 sshd[1848]: Failed password for root from 203.0.113.45 port 51258 ssh2
+Oct 15 09:12:54 server01 sshd[1851]: Failed password for root from 203.0.113.45 port 51263 ssh2
+Oct 15 09:13:15 server01 sshd[1854]: Failed password for invalid user test from 203.0.113.45 port 51270 ssh2
+Oct 15 09:13:42 server01 sshd[1857]: Failed password for invalid user guest from 198.51.100.23 port 49110 ssh2
+Oct 15 09:14:03 server01 sshd[1860]: Failed password for invalid user guest from 198.51.100.23 port 49118 ssh2
+Oct 15 09:14:25 server01 sshd[1863]: Accepted password for helen from 192.0.2.10 port 50321 ssh2
+Oct 15 09:18:47 server01 sudo[1902]: helen : TTY=pts/0 ; PWD=/home/helen ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 15 09:23:11 server01 sshd[1948]: Failed password for root from 203.0.113.45 port 51302 ssh2
+Oct 15 09:23:28 server01 sshd[1951]: Failed password for root from 203.0.113.45 port 51309 ssh2
+Oct 15 09:23:51 server01 sshd[1954]: Connection closed by authenticating user root 203.0.113.45 port 51315 [preauth]
