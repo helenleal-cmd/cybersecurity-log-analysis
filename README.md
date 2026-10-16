@@ -92,6 +92,11 @@ Failed authentication attempts:
 Successful logins:
 192.0.2.10: Oct 15 09:14:25 server01 sshd[1863]: Accepted password for helen from 192.0.2.10 port 50321 ssh2
 ```
+## Execution Evidence
+
+The following screenshot shows the Python log analysis script running successfully in GitHub Codespaces and identifying suspicious SSH authentication activity.
+
+![SSH Log Analysis](evidence/screenshots/ssh_log_analysis.png)
 
 ## Incident Analysis
 
